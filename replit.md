@@ -1,0 +1,43 @@
+# TradieLine
+
+## Overview
+TradieLine is a Next.js application designed as an AI call-handling and review booster system for tradies (tradespeople). The application provides a comprehensive dashboard for managing leads, virtual numbers, reviews, billing, and business settings.
+
+## Project Architecture
+- **Frontend**: Next.js 14.2.5 with React 18.2.0
+- **Styling**: Tailwind CSS with custom components
+- **External Services**: 
+  - Supabase for database operations
+  - Stripe for payment processing
+  - Twilio for SMS/phone services
+
+## Recent Changes
+- **2025-09-08**: Project imported from GitHub and configured for Replit environment
+- Configured Next.js dev server to run on 0.0.0.0:5000 for proper Replit proxy support
+- Set up deployment configuration with autoscale target
+- Verified all pages (home and portal) are working correctly
+
+## Key Features
+1. **Dashboard**: Overview of leads, answer rates, response times, and reviews
+2. **Virtual Numbers**: Twilio integration for phone number provisioning
+3. **Reviews Management**: Google/Facebook integration capabilities
+4. **Billing**: Stripe integration for customer portal access
+5. **Settings**: Business profile management with SMS templates
+
+## Environment Setup
+The application requires the following environment variables:
+- SUPABASE_URL
+- SUPABASE_ANON_KEY  
+- STRIPE_SECRET_KEY
+- TWILIO_ACCOUNT_SID
+- TWILIO_AUTH_TOKEN
+
+## Development
+- Run `npm run dev` to start the development server
+- Application serves on port 5000 with proper host configuration for Replit
+- Hot reload enabled for development
+
+## Deployment
+Configured for autoscale deployment on Replit with:
+- Build command: `npm run build`
+- Run command: `npm start`
