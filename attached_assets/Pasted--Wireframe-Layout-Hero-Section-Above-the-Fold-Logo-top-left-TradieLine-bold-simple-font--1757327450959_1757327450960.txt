@@ -1,0 +1,110 @@
+📐 Wireframe Layout
+
+Hero Section (Above the Fold)
+
+Logo top-left: “TradieLine” (bold, simple font).
+
+Headline: big & clear.
+
+Sub-headline: 1–2 lines explaining benefit.
+
+CTA button: “Start Free Trial”.
+
+Hero image/illustration: tradie on the tools, missing a phone call → phone answers itself.
+
+Section 1: Problem / Pain
+
+Headline: “Missing calls = missing jobs.”
+
+3 bullet points with icons:
+
+“80% of customers call someone else if you don’t answer.”
+
+“Tradies lose thousands every year in missed work.”
+
+“Your reviews are the new word of mouth.”
+
+Section 2: How It Works
+3-step graphic flow:
+
+Call comes in → Tradie can’t answer → system picks up.
+
+Auto text-back → customer leaves details.
+
+Lead saved + review booster → more jobs + more stars.
+
+CTA button again: “Get Started Free”.
+
+Section 3: Benefits / Features
+
+“Never miss a job” – every call answered.
+
+“Win more reviews” – auto send review links.
+
+“Simple dashboard” – all your leads in one place.
+
+“Set & forget” – automated, no fiddling.
+
+Section 4: Pricing (teaser)
+Headline: “Simple monthly plans”
+
+Solo Tradie: $149/month
+
+Crew: $249/month
+
+All plans include free setup + 14-day trial
+
+Button: “Claim Free Trial”
+
+Section 5: Social Proof / Testimonials (placeholder)
+
+Quote box: “Since using TradieLine I’ve stopped losing jobs when I’m on the tools.” – Demo Customer
+
+Trust logos (Google Reviews, Stripe secure payment).
+
+Footer
+
+Links: FAQ | Contact | Terms
+
+Note: “TradieLine is not affiliated with Google. Review features powered by your own Google Business Profile.”
+
+✍️ Draft Copy
+
+Hero
+
+Never Miss a Call. Win More Jobs. Get More Reviews.
+TradieLine answers your calls, captures job details, and gets you 5-star reviews — all while you’re on the tools.
+
+CTA Button
+
+Start Free Trial
+
+Pain Section
+
+Missing calls = missed money.
+
+Customers don’t wait — they ring your competitor.
+
+One missed call could cost you $500+.
+
+Reviews decide who gets picked — are you showing up?
+
+How It Works
+
+Three steps to more jobs:
+
+Call comes in → we answer if you’re busy.
+
+Customer gets a quick text → sends job details.
+
+You get the lead + a ready-to-go review request.
+
+Pricing
+
+Simple Plans. No lock-in.
+
+Solo Tradie: $149/month
+
+Crew: $249/month
+
+Free setup + 14-day trial
